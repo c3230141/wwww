@@ -1,0 +1,18 @@
+body{background-color:rgb(218, 237, 244);}
+h1{color:rgb(115, 188, 5);}
+h2{color:rgb(4, 152, 245)}
+a {
+    color:orangered;
+}
+ td1,td2{
+    font-weight: bold;
+ }
+
+ td1{
+    margin-right: 50px;
+    margin-left:50px;
+ }
+ td2{
+    margin-left:60px;
+ }
+ 
